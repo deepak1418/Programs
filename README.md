@@ -1,7 +1,5 @@
 # Programs
 
-
-
-C  is a general-purpose, imperative computer programming language, supporting structured programming, lexical variable scope and recursion, while a static type system prevents many unintended operations. By design, C provides constructs that map efficiently to typical machine instructions, and therefore it has found lasting use in applications that had formerly been coded in assembly language.
+This Repo contains the list of programs 
 
 
